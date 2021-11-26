@@ -19,6 +19,8 @@ When Visitor opens the product page, they can also sort them according to their 
 By Going to the contact shop, visitors can send messages to the client, or they can call to the physical shop. This increases the interaction between the customers and client which helps to build trust in customers about the products and services and products that are provided by the client.
   
 We already got the logo from the client, that she wants to use for the website. 
+![image](https://user-images.githubusercontent.com/85871356/143543661-6787f5ae-456e-4473-8d78-023654c3ba5f.png)
+
 
 
 Colour:-
